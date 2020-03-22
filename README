@@ -1,0 +1,7 @@
+To start this thing:
+
+$ xadmin provision -d -y
+$ cd conf
+$ . settest1
+$ xadmin start -y
+$ netcl
